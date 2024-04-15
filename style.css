@@ -6,7 +6,15 @@
     padding: 100;
 }
 
+.imagen{
+    transform: translateX(410px) ;
 
+}
+.imgcesde{
+    transform: translateX(1px);
+    transform: translateY(-590px);
+
+}
 section {
     display: flex;
     display: flex;
@@ -21,6 +29,8 @@ section {
 }
 
 .contenedor {
+    transform: translateX(19px);
+
     position: fixed;
     top: 20%;
     width: 385px;
